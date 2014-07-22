@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <introduction address="__top">
+    <mediaLink>
+      <caption />
+      <image xlink:href="4873755a-8b1e-497e-bc54-101d1e75d3e7" />
+      <video videotype="single" videoid="82d736de-f65f-455f-be9e-ac34f7d54eac" player="SP_MOD_OfficeCom" />
+    </mediaLink>
+    <para>Typing in Word for iPad can be tricky at first, especially if you’re used to a physical keyboard. This training video shows you some typing tips for Word for iPad.</para>
+  </introduction>
+  <section>
+    <title>Other tutorial videos for Word for iPad:</title>
+    <content>
+      <list class="ordered">
+        <listItem>
+          <para>
+            <link xlink:href="ac034c0b-26c3-475a-a462-a391e0fa0bf1">Open files from the cloud</link>. Open documents from OneDrive for Business (for your work files) or OneDrive.com (for your personal stuff).</para>
+        </listItem>
+        <listItem>
+          <para>
+            <link xlink:href="db02998d-76ba-414b-857e-85574718049b">Open email attachments</link>. Open, edit, and send back email attachments using Word for iPad.</para>
+        </listItem>
+        <listItem>
+          <para>
+            <link xlink:href="57fb4f11-86f4-4177-af51-e4155789453f">How saving works in Word for iPad</link>. Word for iPad automatically saves your work every time you make even a small change. In most cases, you don’t have to do anything at all to save your document. Watch this training video to learn about AutoSave.</para>
+        </listItem>
+        <listItem>
+          <para address="__goback">
+            <legacyBold>Type in Word for iPad</legacyBold>
+            <legacyBold>.</legacyBold> (You are here!) Typing in Word for iPad can be tricky at first, especially if you’re used to a physical keyboard. This training video shows you some typing tips for Word for iPad.</para>
+        </listItem>
+        <listItem>
+          <para>
+            <link xlink:href="5a809aa6-aeda-4660-9732-e0e4740eb849">Select stuff in Word for iPad</link>. Select text and pictures expertly with your finger in Word for iPad. This training video helps you move from the mouse to the touchscreen.</para>
+        </listItem>
+      </list>
+    </content>
+    <sections />
+  </section>
+  <relatedTopics />
+</developerConceptualDocument>
+<?dxauthor-metadata Server="OCPUBCMSTest" Database="DDCMS_MOD_IW" Project="Word_iPad" Team="Word" TopicTitle="Video: Type in Word for iPad" TopicID="b54b8e59-52d0-4cbd-895e-4564346d43bc" Schema="DDUE" CustomField1="" CustomField2="" CustomField3="" DocumentVersion="1.5"?>

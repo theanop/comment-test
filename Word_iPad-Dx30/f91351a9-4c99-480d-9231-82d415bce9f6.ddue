@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <introduction address="__top">
+    <para>So, you’re working on a section of a document, and you want to make sure no one else interferes. To do that, tap <ui>Review</ui> &gt; <ui>Block Authors</ui>.</para>
+    <para>In the body of your document, you’ll<legacyBold> </legacyBold>see highlighted “locks” on the sections you don’t want others to edit. </para>
+    <para>You can tap <ui>Review</ui> &gt; <ui>Unblock All My Blocked Areas</ui> when you want to free those sections for others to edit.</para>
+    <para>
+      <legacyBold>
+        <mediaLinkInline>
+          <image xlink:href="dd30f52f-1c50-4197-9215-6cdadea255a8">
+          </image>
+        </mediaLinkInline>
+      </legacyBold>
+    </para>
+  </introduction>
+  <section>
+    <title>How do I know if someone is working on my document?</title>
+    <content>
+      <para>When you start working with others on the same document, a message pops up and tells you who is editing the document: </para>
+      <para>
+        <mediaLinkInline>
+          <image xlink:href="cec305ad-caa2-45c5-ad95-dadf40cf7882">
+          </image>
+        </mediaLinkInline>
+      </para>
+      <para>Also, the Share icon in the upper-right corner displays the number of people working on the file: </para>
+      <para>
+        <mediaLinkInline>
+          <image xlink:href="0d820375-3ff0-4cee-a917-a3820d673a96">
+          </image>
+        </mediaLinkInline>
+      </para>
+      <para>To see who else is working on the file, tap the icon, then <legacyItalic></legacyItalic><ui>n Authors Editing</ui>. </para>
+      <para>
+        <mediaLinkInline>
+          <image xlink:href="0def1605-ad64-4da1-bf9c-e68af6e49520">
+          </image>
+        </mediaLinkInline>
+      </para>
+      <alert class="tip">
+        <para> As you work together, you’ll probably see some messages and formatting appear:</para>
+        <list class="bullet">
+          <listItem>
+            <para>When another author saves a change to the file, you see this message: <br /><mediaLinkInline><image xlink:href="ad32e9d0-04e2-4cf1-b857-8c3fca2e3963"></image></mediaLinkInline></para>
+          </listItem>
+          <listItem>
+            <para>You also see this icon and a green highlight on the section the other author changed. <br /><mediaLinkInline><image xlink:href="65a46b2a-eba4-402a-969a-90e3b78e15a0"></image></mediaLinkInline></para>
+          </listItem>
+          <listItem>
+            <para>To see the updates, click <ui>Save and Refresh</ui>, on the right side of the message bar: <br /><mediaLinkInline><image xlink:href="4eda9029-f957-4a11-ba41-f8376f2d3eb9"></image></mediaLinkInline></para>
+          </listItem>
+          <listItem>
+            <para>Word loads the changes by the other author, and highlights them in green: <br /><mediaLinkInline><image xlink:href="ee97ca1b-9b79-4222-9852-bc998903ec6f"></image></mediaLinkInline> </para>
+          </listItem>
+        </list>
+      </alert>
+    </content>
+    <sections />
+  </section>
+  <relatedTopics />
+</developerConceptualDocument>
+<?dxauthor-metadata Server="OCPUBCMSTest" Database="DDCMS_MOD_IW" Project="Word_iPad" Team="Word" TopicTitle="Block others from editing a section in your shared document" TopicID="f91351a9-4c99-480d-9231-82d415bce9f6" Schema="DDUE" CustomField1="" CustomField2="" CustomField3="" DocumentVersion="1.5"?>

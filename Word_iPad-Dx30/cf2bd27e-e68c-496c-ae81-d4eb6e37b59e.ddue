@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <introduction address="__top">
+    <table>
+      <thead>
+        <tr>
+          <TD>
+            <para>Beginner</para>
+          </TD>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <TD>
+            <para>
+              <legacyBold>Activate Office for iPad (:45</legacyBold>
+              <legacyBold>)</legacyBold>
+            </para>
+            <para>Are files opening as “read only” for you in Word for iPad? Then you need to activate the apps with an Office 365 account. This training video shows you how to activate them with a home, work, or school account. </para>
+            <para>
+              <link xlink:href="726ab177-888c-4f2e-a0d9-8fb5c5ef3a36">Watch online</link>
+            </para>
+          </TD>
+        </tr>
+        <tr>
+          <TD>
+            <para>
+              <legacyBold>Open files from the cloud (2:27) </legacyBold>
+            </para>
+            <para>Open documents from OneDrive for Business (for your work files) or OneDrive.com (for your personal stuff). </para>
+            <para>
+              <link xlink:href="ac034c0b-26c3-475a-a462-a391e0fa0bf1">Watch online</link>
+            </para>
+          </TD>
+        </tr>
+        <tr>
+          <TD>
+            <para>
+              <legacyBold>Open email attachments (1:15)</legacyBold>
+            </para>
+            <para>Open, edit, and send back email attachments using Word for iPad.</para>
+            <para>
+              <link xlink:href="db02998d-76ba-414b-857e-85574718049b">Watch online</link>
+            </para>
+          </TD>
+        </tr>
+        <tr>
+          <TD>
+            <para>
+              <legacyBold>How saving works in Word for iPad (1:28)</legacyBold>
+            </para>
+            <para>Word for iPad automatically saves your work every time you make even a small change. In most cases, you don’t have to do anything at all to save your document. Watch this training video to learn about AutoSave.</para>
+            <para>
+              <link xlink:href="57fb4f11-86f4-4177-af51-e4155789453f">Watch online</link>
+            </para>
+          </TD>
+        </tr>
+        <tr>
+          <TD>
+            <para>
+              <legacyBold>Type in Word for iPad (1:54) </legacyBold>
+            </para>
+            <para>Typing in Word for iPad can be tricky at first, especially if you’re used to a physical keyboard. This training video shows you some typing tips for Word for iPad.</para>
+            <para>
+              <link xlink:href="b54b8e59-52d0-4cbd-895e-4564346d43bc">Watch online</link>
+            </para>
+          </TD>
+        </tr>
+        <tr>
+          <TD>
+            <para>
+              <legacyBold>Select stuff in Word for iPad (2:22)</legacyBold>
+            </para>
+            <para>Select text and pictures expertly with your finger in Word for iPad. This training video helps you move from the mouse to the touchscreen.</para>
+            <para>
+              <link xlink:href="5a809aa6-aeda-4660-9732-e0e4740eb849">Watch online</link>
+            </para>
+          </TD>
+        </tr>
+      </tbody>
+    </table>
+  </introduction>
+  <section>
+    <title>Looking for more training?</title>
+    <content>
+      <list class="bullet">
+        <listItem>
+          <para>Check out training courses for <link xlink:href="8c2fb984-de3c-4988-a32d-d549b6c91810">Excel</link> and <link xlink:href="d59b27f6-28cb-47f3-ab85-f3de1e7bbf87">PowerPoint</link> for iPad.</para>
+        </listItem>
+        <listItem>
+          <para>Check out <externalLink><linkText>training courses for the rest of the Office 2013 programs</linkText><linkUri>http://www.office.com/redir/FX101782702</linkUri></externalLink>.</para>
+        </listItem>
+      </list>
+    </content>
+    <sections />
+  </section>
+  <relatedTopics />
+</developerConceptualDocument>
+<?dxauthor-metadata Server="OCPUBCMSTest" Database="DDCMS_MOD_IW" Project="Word_iPad" Team="Word" TopicTitle="Training videos for Word for iPad" TopicID="cf2bd27e-e68c-496c-ae81-d4eb6e37b59e" Schema="DDUE" CustomField1="" CustomField2="" CustomField3="" DocumentVersion="1.5"?>
